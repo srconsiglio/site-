@@ -1,0 +1,39 @@
+body{
+    background-color: lightsalmon;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+
+.sidebar{
+
+    background-color: blue;
+    width: 400px;
+    padding-bottom: 250px;
+    margin: auto; 
+    justify-content: center;
+    display: flex;
+    
+}
+
+.profile img{
+
+    border-radius: 70px;
+    width: 200px;   
+}
+
+.CorDoPerfil{
+    color: white ;
+
+}
+
+
+.nav{
+
+    text-align: left;
+}
+
+
